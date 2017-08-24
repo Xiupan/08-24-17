@@ -4,7 +4,7 @@ def doubleNumbers(inputArr)
     newArray.push(x * 2)
   end
   puts newArray
-  newArray
+  return newArray
 end
 
 arrayOne = [1,2,3,4,5]
